@@ -1,0 +1,19 @@
+:root{
+    --bg-primary-color: #fff;
+    --text-primary-color:black;
+
+    --bg-nav-color:#EAEAEA;
+    --border-nav-color:#DDDDDD;
+
+    --acent-color-contrast: #5E765E;
+    --acent-color:#EBEDEA;
+    --mobile-breakpoint: 1100px
+}
+
+body.darkmode{
+    --bg-primary-color: #1f241f;
+    --text-primary-color:white;
+
+    --bg-nav-color:#242526;
+    --border-nav-color: #393a3b;
+}

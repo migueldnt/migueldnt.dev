@@ -1,0 +1,14 @@
+title: "@miguel_dnt"
+description: >-
+    Esta es alguna descripcion para mi sitio
+
+url: "https://migueldnt.dev"
+
+#theme: minima
+plugins:
+    - jekyll-feed
+    - jekyll-seo-tag
+
+exclude:
+    - README.md
+    - .jekyll-cache

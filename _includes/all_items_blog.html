@@ -1,0 +1,13 @@
+<section class="default-container">
+    <div class="list-blog">
+        {% assign items = site.posts | where: 'categories', 'blog' %}
+        {% for post in items %}
+            <!--{{post.image}}-->
+            <div >
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </div>
+        {% endfor %}
+        </div>
+    <hr>
+    {{content}}
+</section>

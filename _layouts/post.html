@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+    {% include nav.html %}
+    <div class="container-blog">
+        <article>
+            <header class="post-header">
+                <div class="title-text">
+                    <h1 class="post-title">
+                        {{page.title}}
+                    </h1>
+                </div>
+                <div class="title-image">
+                    <img class="cover" src="{{page.image}}" alt="{{page.title}}">
+                </div>
+            </header>
+            <div class="post-content">
+                {{content}}
+            </div>
+            
+        </article>
+        
+    </div>
+
+    {% include scripts.html %}
+</body>
+</html>
