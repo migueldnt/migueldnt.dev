@@ -1,0 +1,9 @@
+#generate _site folder
+version: "3"
+
+services:
+  jekyll:
+    image: jekyll/jekyll:4.0
+    command: "jekyll build"
+    volumes: 
+      - ".:/srv/jekyll/"

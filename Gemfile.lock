@@ -65,10 +65,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.1.1)
+  jekyll (~> 4.0)
   jekyll-feed (~> 0.12)
   jekyll-seo-tag
-  rouge
 
 BUNDLED WITH
    2.1.4

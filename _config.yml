@@ -12,3 +12,5 @@ plugins:
 exclude:
     - README.md
     - .jekyll-cache
+    - docker-compose.yml
+    - docker-compose-dev.yml
