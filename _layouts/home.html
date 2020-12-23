@@ -3,8 +3,28 @@
 {% include head.html %}
 <body>
     {% include nav.html %}
+    <div class="presentacion-bg">
+        <div class="default-container">
+            <div class="presentacion-card">
+                <img src="/assets/images/icono1.png" alt="" class="presentacion-image">
+                {{content}}    
+            </div>
+        </div>
+    </div>
+    <div class="redes-section">
         
+        <a href="https://www.linkedin.com/in/miguel-dnt/" target="_blank" rel="noopener noreferrer"><img class="red-icon" src="/assets/images/linkedin.svg" alt="linkedin"></a>
+        &nbsp;
+        <a href="https://github.com/migueldanto" rel="noopener noreferrer"><img class="red-icon" src="/assets/images/github.svg" alt="github"></a>
+        &nbsp;
+        <a href="https://www.instagram.com/miguel_dnt/" rel="noopener noreferrer"><img class="red-icon" src="/assets/images/instagram.svg" alt="instagram"></a>
+        &nbsp;
+        <a href="/feed.xml" target="_blank" rel="noopener noreferrer"><img class="red-icon" src="/assets/images/rss.svg" alt="rss"></a>
+    </div>
+    <hr>
     {% include all_items_blog.html%}
+
+    {% include footer.html %}
 
     {% include scripts.html %}
 </body>

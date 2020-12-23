@@ -1,18 +1,27 @@
 :root{
     --bg-primary-color: #fff;
     --text-primary-color:black;
+    --text-secondary-color:#5b7a81;
 
     --bg-nav-color:#EAEAEA;
     --border-nav-color:#DDDDDD;
 
     --acent-color-contrast: #5E765E;
     --acent-color:#EBEDEA;
-    --mobile-breakpoint: 1100px
+    --mobile-breakpoint: 1100px;
+
+
+    --color1 : #2bc88e;
+    --color2 : #c9d675;
+    --color3 : #061c14;
+    --color4 : #757a76;
+    --color5 : #e5e5e5;
 }
 
 body.darkmode{
     --bg-primary-color: #1f241f;
     --text-primary-color:white;
+    --text-secondary-color:#5b7a81;
 
     --bg-nav-color:#242526;
     --border-nav-color: #393a3b;
