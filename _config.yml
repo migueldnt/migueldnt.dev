@@ -1,6 +1,6 @@
-title: "@miguel_dnt"
+title: "migueldnt.dev"
 description: >-
-    Esta es alguna descripcion para mi sitio
+    Software Developer. #GIS #Marketing 
 
 url: "https://migueldnt.dev"
 
@@ -13,4 +13,4 @@ exclude:
     - README.md
     - .jekyll-cache
     - docker-compose.yml
-    - docker-compose-dev.yml
+    - docker-compose-dev.yml    

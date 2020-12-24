@@ -3,4 +3,9 @@ layout: home
 title: Miguel Angel Martinez Gonzalez
 ---
 
-Hola soy miguel Angel Martinez .. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hola soy Miguel Ángel Martínez soy desarrollador de Software enfocado en frontend, aunque gusto de involucrarme en  otros de los componentes que conforman un producto web. En mi dia a dia me gusta usar GNU Linux y herramientas opensource. 
+
+Tengo un especial interés en trabajar con datos geográficamente referenciados. El analisis espacial es algo que traigo desde mis estudios en geoinformatica.
+
+Actualmente también soy aprendiz en el área del Marketing. 
+
