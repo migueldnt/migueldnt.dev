@@ -150,7 +150,6 @@ button{
 
 .presentacion-card{
 
-    margin-top: 120px;
     padding: 30px 1.5rem 30px 1.5rem;
 
     color: inherit;
@@ -158,6 +157,14 @@ button{
     /*box-shadow: 1px 5px 12px 2px #888;*/
     text-align: center;
     background-color: var(--bg-primary-color);
+    
+    margin: 50px 1rem 0 1rem;
+}
+
+@media (min-width: 1100px){
+    .presentacion-card{
+        margin: 100px 0 0 0;
+    }
 }
 
 .presentacion-card .presentacion-image{
@@ -191,6 +198,13 @@ div.blog-item>.card-blog-item{
     display: block;
     text-decoration: none;
     color: inherit;
+    margin: 0 1rem;
+}
+
+@media (min-width: 1100px){
+    div.blog-item>.card-blog-item{
+        margin: 0;
+    }
 }
 
 
