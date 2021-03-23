@@ -1,8 +1,7 @@
 # Mi pagina personal
 
 
-algun contenido
-
+Sitio estatico, se trata de un blog y portafolio personal. Tiene como objetivo facilitar la transformación de texto o contenido en formato markdown a paginas html.
 ### para instalar las dependencias de ruby
 
 (teniendo Ruby previamente en la maquina)
