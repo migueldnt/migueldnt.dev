@@ -1,10 +1,10 @@
 :root{
     --bg-primary-color: #fff;
-    --text-primary-color:black;
+    --text-primary-color:#363333;
     --text-secondary-color:#5b7a81;
 
-    --bg-nav-color:#EAEAEA;
-    --border-nav-color:#DDDDDD;
+    --bg-nav-color:#35c98d;
+    --border-nav-color:#000;
 
     --acent-color-contrast: #5E765E;
     --acent-color:#EBEDEA;
