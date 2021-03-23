@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
 .container-blog{
     max-width: 850px;
     margin-left: auto;
@@ -23,6 +25,7 @@
 
 .post-content{
     margin-bottom: 30px;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .post-title, .post-content h1{
@@ -36,4 +39,24 @@ article header img.cover{
     max-height: 25rem;
     object-fit: cover;
     max-width: 650px;
+}
+
+
+.post-content p,.post-content li{
+    font-size: 18px;
+    
+    line-height: 1.6;
+}
+
+
+.post-content h2{
+    font-size: 2rem;
+}
+
+.post-content h3{
+    font-size: 1.4rem;
+}
+
+.post-content h4{
+    font-size: 1.2rem;
 }
