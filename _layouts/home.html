@@ -6,8 +6,15 @@
     <div class="presentacion-bg">
         <div class="default-container">
             <div class="presentacion-card">
+                
                 <img src="/assets/images/foto2.webp" alt="" class="presentacion-image">
-                {{content}}    
+                <div class="presentacion-title">{{page.title}}</div>
+                
+                
+                <div class="presentacion-content">
+                    {{content}}    
+                </div>
+                
             </div>
         </div>
     </div>
@@ -22,7 +29,7 @@
         <a href="/feed.xml" target="_blank" rel="noopener noreferrer"><img class="red-icon" src="/assets/images/rss.svg" alt="rss"></a>
     </div>
     <hr>
-    {% include all_items_blog.html%}
+    {% include all_items_portafolio.html%}
 
     {% include footer.html %}
 
