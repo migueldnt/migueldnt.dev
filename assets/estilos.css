@@ -183,6 +183,7 @@ button{
     font-size: 2rem;
     font-weight: bold;
     background-color: blueviolet;
+    background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
