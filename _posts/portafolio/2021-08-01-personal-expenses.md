@@ -17,11 +17,12 @@ tags:
     - postgres
 ---
 
-Sistema construido en **django**, conectado a una base de datos de tipo postgres. El frontend se renderiza a partir de los  *HTML forms* de django, tambien con un poco de js vanilla y vue. 
+Se trata de un sistema que de manera muy simple lleva a la práctica  las *Cuentas T*  de contabilidad. En donde cada vez que hay un cargo en una cuenta debería haber un abono en otra. Bajo este concepto de contabilidad,  el usuario podría llevar registro de  sus gastos personales (o de su empresa) con mayor exactitud.
 
-Se trata de un sistema que de manera muy simple lleva a la practica  las *Cuentas T*  de contabilidad. En donde cada vez que hay un cargo en una cuenta deberia haber un abono en otra. Bajo este concepto de contabilidad,  el usuario podria llevar registro de  sus gastos personales (o de su empresa) con mayor exactitud.
 
-Cualquier usuario puede registrarse. Enseguida se podran agregar las cuentas que el usuario necesite, despues podran empezar a capturarse los movimientos. 
+Sistema construido en **django**, conectado a una base de datos postgres. El frontend se renderiza a partir de los  *HTML forms* de django, también con un poco de js vanilla y vue.
+
+Cualquier persona puede hacerse usuario. Enseguida se podrán agregar las cuentas que el usuario necesite, después podrán empezar a capturar los movimientos. 
 
 ### Links
 
@@ -29,11 +30,11 @@ Cualquier usuario puede registrarse. Enseguida se podran agregar las cuentas que
 
 [Repositorio de github](https://github.com/migueldanto/personal-expenses)
 
-### Tecnologias usadas
+### Tecnologías usadas
 - Django *para construccion de modelos y servicios web de la aplicacion*.
-- Vue *para renderizar dinamicamente algunos formularios*
+- Vue *para renderizar dinámicamente algunos formularios*
 - Bulma css *para dar estilo a formularios, botones, etc*.
 - Postgres *como acompañamiento de los datos persistentes de django*
-- Docker *para facil despliegue y desarrollo*.
+- Docker *para fácil despliegue y desarrollo*.
 - Google cloud *para despliegue y publicación*
 
