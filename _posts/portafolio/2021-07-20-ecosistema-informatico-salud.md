@@ -1,0 +1,27 @@
+---
+layout: post
+title: Ecosistema Nacional informático de salud
+date: 2021-07-20 10:00:00 -0600
+categories: portafolio
+
+permalink: /:categories/:title.html
+author: "Miguel Ángel"
+image: /assets/posts-images/2021-07-20-ecosistema-informatico-salud.png
+#miestilo: nose #se pueden agregar las propiedades que quieras
+
+#para que se puedan ordenar en cuanto al peso, mayor peso mas arriba aparecera
+peso: 2
+tags: 
+    - sitio
+---
+
+A traves de **COMIMSA** (Corporación Mexicana de Investigación en Materiales) tuve oportunidad de colaborar dentro del equipo que hizo posible la publicacion del Ecosistema Informático Nacional de Salud.
+
+Principalmente colabore en la creacion de visualizaciones de datos geograficos, construccion de interfaces y despliegue de goeservicios.
+
+### Links
+
+- [Ecosistema Nacional Informático de Salud](https://salud.conacyt.mx/)
+- [Vigilancia de variantes del virus SARS-CoV-2](https://salud.conacyt.mx/coronavirus/variantes/)
+- [Plataforma para la Planeación Logística de la Campaña Nacional de Vacunación Covid-19](https://salud.conacyt.mx/coronavirus/vacunacion/)
+- [Productos de investigación y modelado de datos Covid-19](https://salud.conacyt.mx/coronavirus/investigacion/)

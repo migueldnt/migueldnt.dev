@@ -173,7 +173,7 @@ button{
 
 .presentacion-card .presentacion-image{
     max-width: 200px;
-    border-radius: 20%;
+    border-radius: 10%;
     vertical-align: middle;
     text-align: center;
     
@@ -183,6 +183,7 @@ button{
     font-size: 2rem;
     font-weight: bold;
     background-color: blueviolet;
+    background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;

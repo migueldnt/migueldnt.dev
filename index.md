@@ -3,5 +3,8 @@ layout: home
 title: Miguel Ángel Martínez
 ---
 
-Hola soy Miguel Ángel Martínez, desarrollador de software enfocado en tecnologias frontend. Me autodenomino **curioso del mapeo y de las visualizaciones web**. Hago tratamiento, interoperabilidad y representación de datos geograficamente referenciados. 
+**Geoinformático**, desarrollador de software enfocado principalmente en frontend. 
+Desde el año 2014 he colaborado en el desarrollo de sistemas orientados a administrar información geográfica asi como en la publicacion de sitios web de tipo CMS.
+
+Hago tratamiento, interoperabilidad y representación de geo-datos y tengo un amplio interés por desarrollar mapas y visualizaciones web. **Mis stacks:** vue, angular, django, geoserver, docker, postgis, openlayers y qgis. 
 
