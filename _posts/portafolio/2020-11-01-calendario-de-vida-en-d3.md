@@ -16,7 +16,7 @@ tags:
 
 Es una **visualizacion de datos**, los datos, de fechas y epocas en mi vida (las que pueden publicarse). En una cuadricula en donde cada elemento representa un dia. 
 
-Inspirada en la idea de [@thesarahkay](https://www.instagram.com/p/BxuxRrZh98i/?utm_source=ig_web_copy_link). Cada grupo representa un año y cada fila representa un mes.
+Inspirada en la idea de [@thesarahkay](https://www.instagram.com/p/BxuxRrZh98i/?utm_source=ig_web_copy_link). Puse en codigo la visualizacion donde cada grupo representa un año y cada fila representa un mes.
 
 ### Links
 
