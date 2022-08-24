@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
 
 .container-blog{
     max-width: 850px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 65px;
-    padding: 30px 1.5rem 0 1.5rem;
+    margin-top: 2rem;
+    padding: 0 1.5rem 0 1.5rem;
+    min-height: 80vh;
 }
 
 .container-blog article{
@@ -25,7 +26,7 @@
 
 .post-content{
     margin-bottom: 30px;
-    font-family: 'Nunito Sans', sans-serif;
+    
 }
 
 .post-title, .post-content h1{
