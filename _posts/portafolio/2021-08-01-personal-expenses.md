@@ -6,7 +6,7 @@ categories: portafolio
 
 permalink: /:categories/:title.html
 author: "Miguel Ángel"
-image: /assets/posts-images/2021-08-01-personal-expenses.png
+image: /assets/posts-images/2021-08-01-personal-expenses.jpg
 #miestilo: nose #se pueden agregar las propiedades que quieras
 
 #para que se puedan ordenar en cuanto al peso, mayor peso mas arriba aparecera
@@ -37,4 +37,5 @@ Cualquier persona puede hacerse usuario. Enseguida se podrán agregar las cuenta
 - Postgres *como acompañamiento de los datos persistentes de django*
 - Docker *para fácil despliegue y desarrollo*.
 - Google cloud *para despliegue y publicación*
+- Servicios REST *para comunicacion dinamica con el servidor*
 

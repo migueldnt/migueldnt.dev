@@ -1,8 +1,14 @@
 title: "migueldnt.dev"
+tagline: Portafolio y sitio personal
 description: >-
     Software Developer. #GIS #Marketing 
+twitter:
+    username: miguel_dnt
+
+
 
 url: "https://migueldnt.dev"
+repo: "https://github.com/migueldanto/migueldnt.dev"
 
 #theme: minima
 plugins:
