@@ -6,7 +6,7 @@ categories: portafolio
 
 permalink: /:categories/:title.html
 author: "Miguel Ángel"
-image: /assets/posts-images/2021-07-20-ecosistema-informatico-salud.png
+image: /assets/posts-images/2021-07-20-ecosistema-informatico-salud.jpg
 #miestilo: nose #se pueden agregar las propiedades que quieras
 
 #para que se puedan ordenar en cuanto al peso, mayor peso mas arriba aparecera
