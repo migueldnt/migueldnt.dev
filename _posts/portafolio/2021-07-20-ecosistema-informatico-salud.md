@@ -12,7 +12,9 @@ image: /assets/posts-images/2021-07-20-ecosistema-informatico-salud.jpg
 #para que se puedan ordenar en cuanto al peso, mayor peso mas arriba aparecera
 peso: 2
 tags: 
-    - sitio
+    - sitio web
+    - vue
+    - geoserver
 ---
 
 A traves de **COMIMSA** (Corporación Mexicana de Investigación en Materiales) tuve oportunidad de colaborar dentro del equipo que hizo posible la publicacion del Ecosistema Informático Nacional de Salud.

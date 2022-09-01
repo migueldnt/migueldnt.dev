@@ -2,6 +2,10 @@
     <div class="default-container">
         <div class="footer-container">
             <p>Miguel Ángel Martínez © 2022 </p>
+            {% if jekyll.environment != "production" %}
+            <p>ENV={{jekyll.environment}}</p>
+            {% endif %}
+            
             <p>
                 <a href="mailto:migueldnt.dev@gmail.com">migueldnt.dev@gmail.com</a>
             </p>

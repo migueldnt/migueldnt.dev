@@ -5,5 +5,7 @@ services:
   jekyll:
     image: jekyll/jekyll:4.0
     command: "jekyll build"
+    environment:
+      - JEKYLL_ENV=production
     volumes: 
       - ".:/srv/jekyll/"
